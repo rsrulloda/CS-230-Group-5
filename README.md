@@ -14,7 +14,7 @@ Purpose, values, and mission:
 
 
 C. External opportunitest that exist:
-
+To use with Facebook glasses and provide a much more interactable user interface.
 
 D. Teams
 

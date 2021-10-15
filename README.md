@@ -28,10 +28,10 @@ Conferences to present the product : <br />
 Apple Worldwide Developers Conference, Facebook F8, Google I/O
 
 D. Teams <br />
-CEO : 
-COO : 
-CMO :
-CTO :
+CEO : <br />
+COO : <br />
+CMO : <br />
+CTO : <br />
 
 E. Strategy <br />
 

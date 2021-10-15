@@ -19,7 +19,7 @@ For elders, it is easier to interact with holograms than a screen on a phone. <b
 It helps children develop their imaginations. <br />
 
 Funding opportunites: <br />
-https://www.sba.gov/about-sba-navigation-structure/technology-sbirsttr
+https://www.sba.gov/about-sba-navigation-structure/technology-sbirsttr <br />
 https://www.sbir.gov/
 
 Co-development possibilites with other companies: <br />

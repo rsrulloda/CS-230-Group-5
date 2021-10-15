@@ -3,7 +3,7 @@ Project - Entreprenuerism &amp; Ethics
 
 A. Company Name: HoloInteract
 
-B. Long-Term Vision Statements: 
+B. Long-Term Vision Statements: <br />
 Goals:
 To create interactable holograms that are affordable
 
@@ -16,21 +16,22 @@ Purpose, values, and mission:
 C. External opportunitest that exist <br />
 
 Co-marketing: To use with Facebook glasses and provide a much more interactable user interface.<br />
-For elders, it is easier to interact with holograms than a screen on a phone.
-It helps children develop their imaginations, parents with limited space will not have to 
+For elders, it is easier to interact with holograms than a screen on a phone. <br />
+It helps children develop their imaginations. <br />
 
-Funding opportunites:
+Funding opportunites: <br />
 https://www.sba.gov/about-sba-navigation-structure/technology-sbirsttr
 https://www.sbir.gov/
 
-Co-development possibilites with other companies:
+Co-development possibilites with other companies: <br />
 
-Conferences to present the product : Apple Worldwide Developers Conference, Facebook F8, Google I/O
+Conferences to present the product : <br />
+Apple Worldwide Developers Conference, Facebook F8, Google I/O
 
-D. Teams
+D. Teams <br />
 
-E. Strategy
+E. Strategy <br />
 
 
-F. Slogan
+F. Slogan <br />
 Bringing holographic interaction to the world.

@@ -5,7 +5,7 @@ A. Company Name: HoloInteract
 
 B. Long-Term Vision Statements: <br />
 Goals:
-To create interactable holograms that are affordable
+To create interactable holograms that are affordable for the world to use.
 
 Where did the idea come from: <br />
 Museum in Franklin, Philadelphia, an exhibit about interactable holograms. 
@@ -17,7 +17,7 @@ For elders, it is easier to interact with holograms than a screen on a phone. <b
 It helps children develop their imaginations. <br />
 
 C. External opportunitest that exist <br />
-Co-marketing:
+Co-marketing: <br /> (will add more later)
 will work great with glasses type of technology, work with toy companies, and phone manufacturers.
 
 Funding opportunites: <br />

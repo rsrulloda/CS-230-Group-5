@@ -23,15 +23,16 @@ https://www.sba.gov/about-sba-navigation-structure/technology-sbirsttr <br />
 https://www.sbir.gov/
 
 Co-development possibilites with other companies: <br />
+Toy companies such as lego could
 
 Conferences to present the product : <br />
 Apple Worldwide Developers Conference, Facebook F8, Google I/O
 
 D. Teams <br />
-CEO : <br />
-COO : <br />
-CMO : <br />
-CTO : <br />
+CEO : Anh <br />
+COO : Ron <br />
+CMO : Shara <br />
+CTO : David <br />
 
 E. Strategy <br />
 

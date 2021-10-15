@@ -14,6 +14,7 @@ Purpose, values, and mission:
 
 
 C. External opportunitest that exist:
+
 To use with Facebook glasses and provide a much more interactable user interface.
 For elders, it is easier to interact with holograms than a screen on a phone.
 It helps children develop their imaginations, parents with limited space will not have to 

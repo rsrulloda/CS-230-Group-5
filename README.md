@@ -4,4 +4,4 @@ Project - Entreprenuerism &amp; Ethics
 Company Name: HoloInteract
 
 Long-Term Vision Statements
-Goals: 
+/n Goals: 

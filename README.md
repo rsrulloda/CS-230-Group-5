@@ -6,3 +6,8 @@ Company Name: HoloInteract
 Long-Term Vision Statements
 
 Goals: 
+
+Where did the idea come from:
+
+
+Purpose, values, and mission: 

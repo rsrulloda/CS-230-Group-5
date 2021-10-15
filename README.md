@@ -40,7 +40,7 @@ CTO : David <br />
 
 E. Strategy <br />
 Case Sudy of the closest potential competitor: <br />
-LG projectors are interactable. ie. https://www.lg.com/us/business/projectors-for-business?gclid=CjwKCAjwzaSLBhBJEiwAJSRokm0CN0oHBsS3LFT58bHKF_1KGX4vYGNLPhXTxpeHhMrolNEUsxbyxhoCdzMQAvD_BwE 
+LG projectors are interactable. ie. https://www.lg.com/us/business/projectors-for-business?gclid=CjwKCAjwzaSLBhBJEiwAJSRokm0CN0oHBsS3LFT58bHKF_1KGX4vYGNLPhXTxpeHhMrolNEUsxbyxhoCdzMQAvD_BwE <br />
 Case Study : <br />
 
 F. Slogan <br />

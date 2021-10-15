@@ -11,12 +11,14 @@ Where did the idea come from: <br />
 Museum in Franklin, Philadelphia, an exhibit about interactable holograms. 
 
 Purpose, values, and mission: 
-
-
-C. External opportunitest that exist <br />
-Co-marketing: To use with Facebook glasses and provide a much more interactable user interface.<br />
+Make lives easier such as 
+To use with Facebook glasses and provide a much more interactable user interface.<br />
 For elders, it is easier to interact with holograms than a screen on a phone. <br />
 It helps children develop their imaginations. <br />
+
+C. External opportunitest that exist <br />
+Co-marketing:
+will work great with glasses type of technology, work with toy companies, and phone manufacturers.
 
 Funding opportunites: <br />
 https://www.sba.gov/about-sba-navigation-structure/technology-sbirsttr <br />

@@ -5,9 +5,8 @@ Company Name: HoloInteract
 
 Long-Term Vision Statements
 
-Goals: 
+Goals: To create interactable holograms that .......
 
-Where did the idea come from:
-
+Where did the idea come from: 
 
 Purpose, values, and mission: 

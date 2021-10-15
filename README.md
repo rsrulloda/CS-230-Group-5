@@ -1,7 +1,7 @@
 # CS-230-Group-5
-## Project - Entreprenuerism &amp; Ethics
+Project - Entreprenuerism &amp; Ethics
 
-**A. Company Name:** HoloInteract
+A. Company Name: HoloInteract
 
 B. Long-Term Vision Statements: <br />
 Goals: <br />
@@ -11,7 +11,7 @@ Where did the idea come from: <br />
 Museum in Franklin, Philadelphia, an exhibit about interactable holograms. 
 
 Purpose, values, and mission: <br />
-Make lives easier such as: <br />
+Make lives easier and conveninent: <br />
 To use with Facebook glasses and provide a much more interactable user interface.<br />
 For elders, it is easier to interact with holograms than a screen on a phone. <br />
 It helps children develop their imaginations. <br />

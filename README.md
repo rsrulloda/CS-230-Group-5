@@ -15,9 +15,17 @@ Purpose, values, and mission:
 
 C. External opportunitest that exist:
 
-To use with Facebook glasses and provide a much more interactable user interface.
+Co-marketing: To use with Facebook glasses and provide a much more interactable user interface. 
 For elders, it is easier to interact with holograms than a screen on a phone.
 It helps children develop their imaginations, parents with limited space will not have to 
+
+Funding opportunites:
+https://www.sba.gov/about-sba-navigation-structure/technology-sbirsttr
+https://www.sbir.gov/
+
+Co-development possibilites with other companies:
+
+Conferences to present the product : Apple Worldwide Developers Conference, Facebook F8, Google I/O
 
 D. Teams
 

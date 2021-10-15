@@ -7,14 +7,13 @@ B. Long-Term Vision Statements: <br />
 Goals:
 To create interactable holograms that are affordable
 
-Where did the idea come from: 
+Where did the idea come from: <br />
 Museum in Franklin, Philadelphia, an exhibit about interactable holograms. 
 
 Purpose, values, and mission: 
 
 
 C. External opportunitest that exist <br />
-
 Co-marketing: To use with Facebook glasses and provide a much more interactable user interface.<br />
 For elders, it is easier to interact with holograms than a screen on a phone. <br />
 It helps children develop their imaginations. <br />
@@ -29,6 +28,10 @@ Conferences to present the product : <br />
 Apple Worldwide Developers Conference, Facebook F8, Google I/O
 
 D. Teams <br />
+CEO : 
+COO : 
+CMO :
+CTO :
 
 E. Strategy <br />
 

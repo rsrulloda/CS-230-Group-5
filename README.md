@@ -4,7 +4,7 @@ Project - Entreprenuerism &amp; Ethics
 A. Company Name: HoloInteract
 
 B. Long-Term Vision Statements: <br />
-Goals:
+Goals: <br />
 To create interactable holograms that are affordable for the world to use.
 
 Where did the idea come from: <br />

@@ -8,7 +8,7 @@ Goals: <br />
 To create interactable holograms that are affordable for the world to use.
 
 Where did the idea come from: <br />
-Museum in Franklin, Philadelphia, an exhibit about interactable holograms. 
+The Franklin Institute, Philadelphia, an exhibit about interactable holograms. 
 
 Purpose, values, and mission: <br />
 Make lives easier and convenient: <br />

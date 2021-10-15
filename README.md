@@ -10,7 +10,7 @@ To create interactable holograms that are affordable for the world to use.
 Where did the idea come from: <br />
 Museum in Franklin, Philadelphia, an exhibit about interactable holograms. 
 
-Purpose, values, and mission: 
+Purpose, values, and mission: <br />
 Make lives easier such as 
 To use with Facebook glasses and provide a much more interactable user interface.<br />
 For elders, it is easier to interact with holograms than a screen on a phone. <br />

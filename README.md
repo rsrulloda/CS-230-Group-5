@@ -26,7 +26,7 @@ https://www.sba.gov/about-sba-navigation-structure/technology-sbirsttr <br />
 https://www.sbir.gov/
 
 Co-development possibilites with other companies: <br />
-Toy companies such as lego could
+Toy companies such as lego could reduce waste through the usage of holograms.
 
 Conferences to present the product : <br />
 Apple Worldwide Developers Conference, Facebook F8, Google I/O

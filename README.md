@@ -1,6 +1,7 @@
 # CS-230-Group-5
 Project - Entreprenuerism &amp; Ethics
-
+<br />
+Item 1 : Business Plan <br />
 A. Company Name: HoloInteract
 
 B. Long-Term Vision Statements: <br />
@@ -43,4 +44,13 @@ LG projectors are interactable. ie. https://www.lg.com/us/business/projectors-fo
 Case Study : <br />
 
 F. Slogan <br />
-Bringing holographic interaction to the world.
+Bringing holographic interaction to the world. <br />
+<br />
+
+Item 2 : Cultural Policy <br />
+
+A. Core Values: <br />
+
+B. Motivation: <br />
+
+C. Summary: <br />

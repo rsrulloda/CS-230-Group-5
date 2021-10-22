@@ -63,4 +63,18 @@ HoloInteract brings convenience to architecture companies and new technology to 
 
 C. Summary: <br />
 Helping the world through innovation. <br />
+<br />
+
+Item 3 : Ethics Policy
+Core Items:  <br />
+<br />
+Board: 
+<br />
+
+Item 4 : Experimention & Priorities  <br />
+A. Experimentation  <br />
+B. Priorities:  <br />
+
+ <br />
+
 

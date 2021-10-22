@@ -1,26 +1,28 @@
 # CS-230-Group-5
 ## Project - Entreprenuerism &amp; Ethics
-<br />
-## Item 1 : Business Plan
+Item 1 : Business Plan
 <br />
 A. Company Name: HoloInteract
+
 
 B. Long-Term Vision Statements: <br />
 Goals: To create interactable holograms that are affordable for the world to use.
 
+
 Where did the idea come from: <br />
 Museum in Franklin, Philadelphia. An exhibit about interactable holograms. 
 
+
 Purpose, values, and mission: <br />
-Make lives easier and convenient: <br />
-To use with Facebook glasses and provide a much more interactable user interface.<br />
-For elders, it is easier to interact with holograms than a screen on a phone. <br />
-It helps children develop their imaginations. <br />
-for architecture, the ability to assemble and disassemble. <br />
-Decrease in waste for the environment. <br />
+* Make lives easier and convenient: <br />
+* To use with Facebook glasses and provide a much more interactable user interface.<br />
+* For elders, it is easier to interact with holograms than a screen on a phone. <br />
+* It helps children develop their imaginations. <br />
+* for architecture, the ability to assemble and disassemble. <br />
+* Decrease in waste for the environment. <br />
 
 C. External opportunitest that exist <br />
-Co-marketing: <br /> (will add more later)
+Co-marketing: <br />
 will work great with glasses type of technology, toy companies, and phone manufacturers.
 
 Funding opportunites: <br />
@@ -35,9 +37,13 @@ Apple Worldwide Developers Conference, Facebook F8, Google I/O
 
 D. Teams <br />
 CEO : Anh <br />
+About:
 COO : Ron <br />
+About:
 CMO : Shara <br />
+About:
 CTO : David <br />
+About:
 
 E. Strategy <br />
 Case Sudy of the closest potential competitor: <br />

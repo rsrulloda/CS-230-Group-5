@@ -8,7 +8,7 @@ B. Long-Term Vision Statements: <br />
 Goals: To create interactable holograms that are affordable for the world to use.
 
 Where did the idea come from: <br />
-Museum in Franklin, Philadelphia, an exhibit about interactable holograms. 
+Museum in Franklin, Philadelphia. An exhibit about interactable holograms. 
 
 Purpose, values, and mission: <br />
 Make lives easier and convenient: <br />
@@ -50,7 +50,20 @@ Bringing holographic interaction to the world. <br />
 Item 2 : Cultural Policy <br />
 
 A. Core Values: <br />
+Passion: Passion generates excitement for what we do and how we do it.
+Innovation: We encourage creative, thoughtful, and inspirational ideas.
+Teamwork: We are better together. 
+Humanity: We work to help communities.
+Environment: Respect for the protection of environmental resources.
+Results: Driving for results.
+
 
 B. Motivation: <br />
+HoloInteract would love to bring convenience to architecture companies and new technology to the new generations.
 
 C. Summary: <br />
+-Creative approach <br />
+-World-wide target <br />
+-Respect for the protection of environmental resources <br />
+-Practical Direction <br />
+

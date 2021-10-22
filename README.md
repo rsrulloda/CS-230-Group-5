@@ -67,6 +67,7 @@ Helping the world through innovation. <br />
 
 Item 3 : Ethics Policy  <br />
 Core Items:  <br />
+1.  <br />
 Board: <br />
 
 Item 4 : Experimention & Priorities  <br />

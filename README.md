@@ -65,11 +65,9 @@ C. Summary: <br />
 Helping the world through innovation. <br />
 <br />
 
-Item 3 : Ethics Policy
+Item 3 : Ethics Policy  <br />
 Core Items:  <br />
-<br />
-Board: 
-<br />
+Board: <br />
 
 Item 4 : Experimention & Priorities  <br />
 A. Experimentation  <br />

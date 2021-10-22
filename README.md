@@ -50,17 +50,17 @@ Bringing holographic interaction to the world. <br />
 Item 2 : Cultural Policy <br />
 
 A. Core Values: <br />
-Passion: Passion generates excitement for what we do and how we do it.
-Innovation: We encourage creative, thoughtful, and inspirational ideas.
-Teamwork: We are better together. 
-Humanity: We work to help communities.
-Environment: Respect for the protection of environmental resources.
-Results: Driving for results.
+Passion: Passion generates excitement for what we do and how we do it. <br />
+Innovation: We encourage creative, thoughtful, and inspirational ideas. <br />
+Teamwork: We are better together. <br />
+Humanity: We work to help communities. <br />
+Environment: Respect for the protection of environmental resources. <br />
+Results: Driving for results. <br />
 
 
 B. Motivation: <br />
-HoloInteract brings convenience to architecture companies and new technology to the new generations.
+HoloInteract brings convenience to architecture companies and new technology to the new generations. <br />
 
 C. Summary: <br />
-Helping the world through innovation.
+Helping the world through innovation. <br />
 

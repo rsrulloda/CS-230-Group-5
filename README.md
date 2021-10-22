@@ -1,7 +1,7 @@
 # CS-230-Group-5
 ## Project - Entreprenuerism &amp; Ethics
 <br />
-###Item 1 : Business Plan
+### Item 1 : Business Plan
 <br />
 A. Company Name: HoloInteract
 

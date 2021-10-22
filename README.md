@@ -59,11 +59,8 @@ Results: Driving for results.
 
 
 B. Motivation: <br />
-HoloInteract would love to bring convenience to architecture companies and new technology to the new generations.
+HoloInteract brings convenience to architecture companies and new technology to the new generations.
 
 C. Summary: <br />
--Creative approach <br />
--World-wide target <br />
--Respect for the protection of environmental resources <br />
--Practical Direction <br />
+Helping the world through innovation.
 

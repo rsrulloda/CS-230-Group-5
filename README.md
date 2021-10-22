@@ -1,7 +1,7 @@
 # CS-230-Group-5
-Project - Entreprenuerism &amp; Ethics
+## Project - Entreprenuerism &amp; Ethics
 <br />
-Item 1 : Business Plan <br />
+###Item 1 : Business Plan <br />
 A. Company Name: HoloInteract
 
 B. Long-Term Vision Statements: <br />
@@ -47,7 +47,7 @@ F. Slogan <br />
 Bringing holographic interaction to the world. <br />
 <br />
 
-Item 2 : Cultural Policy <br />
+###Item 2 : Cultural Policy <br />
 
 A. Core Values: <br />
 Passion: Passion generates excitement for what we do and how we do it. <br />
@@ -65,12 +65,12 @@ C. Summary: <br />
 Helping the world through innovation. <br />
 <br />
 
-Item 3 : Ethics Policy  <br />
+###Item 3 : Ethics Policy  <br />
 Core Items:  <br />
 1.  <br />
 Board: <br />
 
-Item 4 : Experimention & Priorities  <br />
+###Item 4 : Experimention & Priorities  <br />
 A. Experimentation  <br />
 B. Priorities:  <br />
 

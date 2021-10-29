@@ -54,7 +54,7 @@ F. Slogan <br />
 Bringing holographic interaction to the world. <br />
 <br />
 
-**Item 2 : Cultural Policy **<br />
+** Item 2 : Cultural Policy **<br />
 
 A. Core Values: <br />
 Passion: Passion generates excitement for what we do and how we do it. <br />
@@ -72,9 +72,11 @@ C. Summary: <br />
 Helping the world through innovation. <br />
 <br />
 
-######Item 3 : Ethics Policy  <br />
+** Item 3 : Ethics Policy **<br />
 Core Items:  <br />
-1.  <br />
+1. Accountabilit</br>
+2. Respect: Treat everyone fairly and maintain clear communication in the workplace. </br>
+3. Purpose: Be beneficial to others. <br />
 Board: <br />
 
 **Item 4 : Experimention & Priorities ** <br />

@@ -1,6 +1,6 @@
 # CS-230-Group-5
 ## Project - Entreprenuerism &amp; Ethics
-Item 1 : Business Plan
+**Item 1 : Business Plan**
 <br />
 A. Company Name: HoloInteract
 
@@ -54,7 +54,7 @@ F. Slogan <br />
 Bringing holographic interaction to the world. <br />
 <br />
 
-** Item 2 : Cultural Policy **<br />
+**Item 2 : Cultural Policy**<br />
 
 A. Core Values: <br />
 Passion: Passion generates excitement for what we do and how we do it. <br />
@@ -72,12 +72,25 @@ C. Summary: <br />
 Helping the world through innovation. <br />
 <br />
 
-** Item 3 : Ethics Policy **<br />
+**Item 3 : Ethics Policy**<br />
 Core Items:  <br />
-1. Accountabilit</br>
-2. Respect: Treat everyone fairly and maintain clear communication in the workplace. </br>
-3. Purpose: Be beneficial to others. <br />
+1. Accountability: Admit to your own faults and learn from the mistake.  </br>
+2. Respect: Be inclusive. Treat others as you would like to be treated. Treat everyone fairly. </br>
+3. Integrity: Maintain honesty to others and the community as we progress the technology.  </br>
+4. Transparency: All decisions are shared to the betterment of the society. </br>
+5. Purpose: What we do is always for the good of the community. <br />
+
 Board: <br />
+1. Jeff Bezos </br>
+Biography: Jeff Bez
+Why?
+2. Elon Musk
+Biography:
+Why?
+3. Palmer Luckey
+Biography?
+Why? 
+
 
 **Item 4 : Experimention & Priorities ** <br />
 A. Experimentation  <br />

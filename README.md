@@ -85,14 +85,17 @@ Board: <br />
 Biography: Jeff Bez</br>
 Jeffrey Preston Bezos is an American businessman, industrialist, media owner, and investor. Bezos is best known as the founder, CEO and chairman of the multinational technology company Amazon. 
 Why?</br>
+This person provides us the way to focus on customers, marketing, and selling. He will be a great part of the bussines area. 
 2. Elon Musk
 Biography:</br>
 Elon Reeve Musk FRS, is a South African-American engineer, financier, inventor, technology entrepreneur and philanthropist. He is also a dual citizen of South Africa and Canada. 
 Why?</br>
+We also need a person who have experince in engineering; therfore, the production systems will be more effiecency.
 3. Palmer Luckey
 Biography:</br>
 Palmer Freeman Luckey is an American entrepreneur best known as the founder of Oculus VR and designer of the Oculus Rift, a head-mounted virtual reality display widely recognized for revitalizing the industry. virtual reality industry. 
 Why?</br>
+Palmer Luckey had a wide experience in Vr, we need his respective and our hologram. Most of the holograms, if we watch in different side, will be different. We need this guy for developing the classes to watch the hologram in different respective.
 
 
 **Item 4 : Experimention & Priorities ** <br />

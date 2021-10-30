@@ -82,14 +82,17 @@ Core Items:  <br />
 
 Board: <br />
 1. Jeff Bezos </br>
-Biography: Jeff Bez
-Why?
+Biography: Jeff Bez</br>
+Jeffrey Preston Bezos is an American businessman, industrialist, media owner, and investor. Bezos is best known as the founder, CEO and chairman of the multinational technology company Amazon. 
+Why?</br>
 2. Elon Musk
-Biography:
-Why?
+Biography:</br>
+Elon Reeve Musk FRS, is a South African-American engineer, financier, inventor, technology entrepreneur and philanthropist. He is also a dual citizen of South Africa and Canada. 
+Why?</br>
 3. Palmer Luckey
-Biography?
-Why? 
+Biography:</br>
+Palmer Freeman Luckey is an American entrepreneur best known as the founder of Oculus VR and designer of the Oculus Rift, a head-mounted virtual reality display widely recognized for revitalizing the industry. virtual reality industry. 
+Why?</br>
 
 
 **Item 4 : Experimention & Priorities ** <br />

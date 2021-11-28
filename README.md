@@ -39,23 +39,30 @@ Conferences to present the product : <br />
 Apple Worldwide Developers Conference, Facebook F8, Google I/O
 
 D. Teams <br />
+<a href="a"> <img src = "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png" width="200" height="200"> </a>
+</br>
 CEO : Anh <br />
 About: <br />
 </br>
 
+<a href="a"> <img src = "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png" width="200" height="200"> </a>
+</br>
 COO : Ron <br />
 About: <br />
 </br>
 
+<a href="a"> <img src = "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png" width="200" height="200"> </a>
+</br>
 CMO : Yentishara Moh Hasim<br />
 About: </br>
 Shara is the Chief Marketing Officer. She is responsible for HoloInteracts marketing efforts such as customer research,
 strategy, online marketing, and customer communications. She links the company's innovations, products, and services to build the
 company's brand to create awareness. Her strengths are being empathic as she want to treat others as she wants to be treated. She
 is resilient and hardworking. 
-
 <br />
 
+<a href="a"> <img src = "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png" width="200" height="200"> </a>
+</br>
 CTO : David <br />
 About: <br />
 </br>

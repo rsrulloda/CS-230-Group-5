@@ -40,13 +40,20 @@ D. Teams <br />
 CEO : Anh <br />
 About: <br />
 </br>
+
 COO : Ron <br />
 About: <br />
 </br>
+
 CMO : Yentishara Moh Hasim<br />
 About: </br>
-Shara is the Chief Marketing Officer. She is 
+Shara is the Chief Marketing Officer. She is responsible for HoloInteracts marketing efforts such as customer research,
+strategy, online marketing, and customer communications. She links the company's innovations, products, and services to build the
+company's brand to create awareness. Her strengths are being empathic as she want to treat others as she wants to be treated. She
+is resilient and hardworking. 
+
 <br />
+
 CTO : David <br />
 About: <br />
 </br>
@@ -58,12 +65,31 @@ Case Study: https://irp-cdn.multiscreensite.com/68fb84ce/files/uploaded/HYPERVSN
 https://41252621-3e17-4a77-b15e-d187575bd2d9.filesusr.com/ugd/7788b0_bf1fd156c58a4648bb9e2e7cb01aa216.pdf
 
 • What we learned from it?
-The use of holograms get people's attention. According to the case study, there is an increase in sales when using the product. 
+The use of holograms get people's attention. According to the case study, there is an increase in sales for their client when using their holographic product. People are fascinated by it so this technology can be used for advertising to fund other projects to develop the technology more. 
 
-• Key Milestones:
+• Key Milestones: </br>
+Objective: Launch a website</br>
+Key Results: </br>
+Increase company popularity by 10% through users visiting the website. </br>
+Gather information on at least 10 interested users.</br>
+</br>
+
+Objective: Activate user-testing of our product </br>
+Key Results: </br>
+Conduct at least 20 user testing and interview session for using the product. </br>
+Get 12 interviews from early-stage customers.</br>
+Analyze the data given by interviewee and agree on 3 areas to be worked on.</br>
+</br>
+
+• 3-5 years Milestone: </br>
+Objective: Become a leader in the industry and increase the visibility of our expertise</br>
+Key Results: </br>
+Increase mentions of the company on the web by 30%. </br>
+Achieve 50 articles about our products. </br>
+</br>
 
 • How we will differentiate from other companies? </br>
-The main purpose of our company is to help 
+The main purpose of our company is to make lives more convinient for others. While we are thinking of using our holograms for advertising, we want to further the technology so it can be used for more. We want to be able to provide ease in usage so it can be used by everyone. 
 
 F. Slogan <br />
 Bringing holographic interactions to the world. <br />

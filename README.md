@@ -107,7 +107,7 @@ Why?</br>
 Palmer Luckey had a wide experience in Vr, we need his respective and our hologram. Most of the holograms, if we watch in different side, will be different. We need this guy for developing the classes to watch the hologram in different respective.
 
 
-**Item 4 : Experimention & Priorities ** <br />
+**Item 4 : Experimention & Priorities** <br />
 A. Experimentation  <br />
 The first one should be holographic fan. this fan uses 720 high-definition lamp beads, the resolution can reach 1600 * 720, the normal size is 42CM in diameter, other sizes also support 60cm, 65cm, 100cm, customized sizes can also be consulted by customer service. It is a good carrier for making advertising lights and advertising. Support 3D video customization, additional charges are required. Moreover, we can interact with it by change the code fuctioning the lights of the fan to change to another visual art.  <br />
 The second experiecne should be projected picture onto the glass with projection Film, in addition to the sensor, so the ordinary glass can carry the picture, and can touch. We can use this expericnce on gates of the stores in some luxury mall or brands to make it more interesting for customers.  <br />

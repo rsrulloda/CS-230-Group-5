@@ -45,10 +45,11 @@ CEO : Anh <br />
 About: <br />
 </br>
 
-<a href="a"> <img src = "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png" width="150" height="150"> </a>
+<a href="a"> <img src = "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s150x150/104650164_1130239514020501_196061441141028247_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=jwSZzUMamG8AX85cg7s&edm=ABfd0MgBAAAA&ccb=7-4&oh=5a78a422ae03f00e413314e4feb7d1cd&oe=61AB699D&_nc_sid=7bff83" width="200" height="200"> </a>
 </br>
 COO : Ron <br />
 About: <br />
+Ron is the Chief Operating Officer. He is responsible for overseeing the day-to-day administrative and operational functions of HoloInteracts. Overseeing a startup company as an executive requires a handful of skills and strengths. One of his strengths would be decision making. Making the right decisions for HoloInteracts is vital for the future success of the company. He needs to ensure the smooth operation of the company by making the right decisions.
 </br>
 
 <a href="a"> <img src = "https://i.imgur.com/csnoRVi.jpg?1" width="150" height="150"> </a>

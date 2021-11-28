@@ -56,7 +56,7 @@ Ron is the Chief Operating Officer. He is responsible for overseeing the day-to-
 </br>
 CMO : Yentishara Moh Hasim<br />
 About: </br>
-Shara is the Chief Marketing Officer. She is responsible for HoloInteracts marketing efforts such as customer research,
+Shara is the Chief Marketing Officer. She is responsible for HoloInteract's marketing efforts such as customer research,
 strategy, online marketing, and customer communications. She links the company's innovations, products, and services to build the
 company's brand to create awareness. Her strengths are being empathic as she want to treat others as she wants to be treated. She
 is resilient and dedicated who uses her failure as an opportunity to reflect and motivate herself.

@@ -39,19 +39,19 @@ Conferences to present the product : <br />
 Apple Worldwide Developers Conference, Facebook F8, Google I/O
 
 D. Teams <br />
-<a href="a"> <img src = "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png" width="200" height="200"> </a>
+<a href="a"> <img src = "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png" width="150" height="150"> </a>
 </br>
 CEO : Anh <br />
 About: <br />
 </br>
 
-<a href="a"> <img src = "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png" width="200" height="200"> </a>
+<a href="a"> <img src = "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png" width="150" height="150"> </a>
 </br>
 COO : Ron <br />
 About: <br />
 </br>
 
-<a href="a"> <img src = "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png" width="200" height="200"> </a>
+<a href="a"> <img src = "https://i.imgur.com/csnoRVi.jpg?1" width="150" height="150"> </a>
 </br>
 CMO : Yentishara Moh Hasim<br />
 About: </br>
@@ -61,7 +61,7 @@ company's brand to create awareness. Her strengths are being empathic as she wan
 is resilient and dedicated who uses her failure as an opportunity to reflect and motivate herself.
 <br />
 
-<a href="a"> <img src = "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png" width="200" height="200"> </a>
+<a href="a"> <img src = "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png" width="150" height="150"> </a>
 </br>
 CTO : David <br />
 About: <br />

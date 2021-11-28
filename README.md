@@ -16,14 +16,15 @@ Museum in Franklin, Philadelphia. An exhibit about interactable holograms.
 Purpose, values, and mission: <br />
 * Make lives easier and convenient: <br />
 * To use with Facebook glasses and provide a much more interactable user interface.<br />
-* For elders, it is easier to interact with holograms than a screen on a phone. <br />
+* For elderly, it is easier to interact with holograms than a screen on a phone. <br />
 * It helps children develop their imaginations. <br />
 * for architecture, the ability to assemble and disassemble. <br />
 * Decrease in waste for the environment. <br />
 
 C. External opportunitest that exist <br />
 Co-marketing: <br />
-will work great with glasses type of technology, toy companies, and phone manufacturers.
+• will work great with glasses type of technology, toy companies, and phone manufacturers.
+• it will help architecture companies with making blueprints.  
 
 Funding opportunites: <br />
 https://www.sba.gov/about-sba-navigation-structure/technology-sbirsttr <br />
@@ -38,21 +39,26 @@ Apple Worldwide Developers Conference, Facebook F8, Google I/O
 D. Teams <br />
 CEO : Anh <br />
 About: <br />
+</br>
 COO : Ron <br />
 About: <br />
+</br>
 CMO : Yentishara Moh Hasim<br />
-About: Shara is the Chief Marketing Officer. <br />
+About: </br>
+Shara is the Chief Marketing Officer. She is 
+<br />
 CTO : David <br />
 About: <br />
+</br>
 
 E. Strategy <br />
 • Closest potential competitor: <br />
-HYPERVSN is a company that develops interactive holographic displays that provides an immersive experience for viewers.
+HYPERVSN is a company that develops interactive holographic displays that provides an immersive experience for viewers. </br>
 Case Study: https://irp-cdn.multiscreensite.com/68fb84ce/files/uploaded/HYPERVSN%20Wall%20Overview.pdf
 https://41252621-3e17-4a77-b15e-d187575bd2d9.filesusr.com/ugd/7788b0_bf1fd156c58a4648bb9e2e7cb01aa216.pdf
 
 • What we learned from it?
-
+The use of holograms get people's attention. According to the case study, there is an increase in sales when using the product. 
 
 • Key Milestones:
 

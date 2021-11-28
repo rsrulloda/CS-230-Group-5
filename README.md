@@ -41,12 +41,12 @@ About: <br />
 COO : Ron <br />
 About: <br />
 CMO : Yentishara Moh Hasim<br />
-About: Shara is the Chief Marketing Office. <br />
+About: Shara is the Chief Marketing Officer. <br />
 CTO : David <br />
 About: <br />
 
 E. Strategy <br />
-•Closest potential competitor: <br />
+• Closest potential competitor: <br />
 HYPERVSN is a company that develops interactive holographic displays that provides an immersive experience for viewers.
 Case Study: https://irp-cdn.multiscreensite.com/68fb84ce/files/uploaded/HYPERVSN%20Wall%20Overview.pdf
 https://41252621-3e17-4a77-b15e-d187575bd2d9.filesusr.com/ugd/7788b0_bf1fd156c58a4648bb9e2e7cb01aa216.pdf
@@ -92,17 +92,17 @@ Core Items:  <br />
 Board: <br />
 1. Jeff Bezos </br>
 Biography:</br>
-Jeffrey Preston Bezos is an American businessman, industrialist, media owner, and investor. Bezos is best known as the founder, CEO and chairman of the multinational technology company Amazon. 
+Jeffrey Preston Bezos is an American businessman, industrialist, media owner, and investor. Bezos is best known as the founder, CEO and chairman of the multinational technology company Amazon. </br>
 Why?</br>
-This person provides us the way to focus on customers, marketing, and selling. He will be a great part of the bussines area. 
+This person provides us the way to focus on customers, marketing, and selling. He will be a great part of the bussines area.</br> 
 2. Elon Musk
 Biography:</br>
-Elon Reeve Musk FRS, is a South African-American engineer, financier, inventor, technology entrepreneur and philanthropist. He is also a dual citizen of South Africa and Canada. 
+Elon Reeve Musk FRS, is a South African-American engineer, financier, inventor, technology entrepreneur and philanthropist. He is also a dual citizen of South Africa and Canada. </br>
 Why?</br>
-We also need a person who have experince in engineering; therfore, the production systems will be more effiecency.
+We also need a person who have experince in engineering; therfore, the production systems will be more effiecency.</br>
 3. Palmer Luckey
 Biography:</br>
-Palmer Freeman Luckey is an American entrepreneur best known as the founder of Oculus VR and designer of the Oculus Rift, a head-mounted virtual reality display widely recognized for revitalizing the industry. virtual reality industry. 
+Palmer Freeman Luckey is an American entrepreneur best known as the founder of Oculus VR and designer of the Oculus Rift, a head-mounted virtual reality display widely recognized for revitalizing the industry. virtual reality industry. </br>
 Why?</br>
 Palmer Luckey had a wide experience in Vr, we need his respective and our hologram. Most of the holograms, if we watch in different side, will be different. We need this guy for developing the classes to watch the hologram in different respective.
 

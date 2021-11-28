@@ -24,8 +24,8 @@ Purpose, values, and mission: <br />
 C. External opportunitest that exist <br />
 Co-marketing: <br />
 • Will work great with AR/VR technology integrated in glasses type devices such as the Apple Glasses, Google Glasses, etc.</br>
-• It can be used by toy companies to promote children's imagination. </br>
-• It can be used phone manufacturers to cater to the older generation through userfriendliness. </br>
+• It can be used by toy companies such as lego to promote children's imagination. </br>
+• It can be used phone manufacturers like Apple to cater to the older generation through userfriendliness. </br>
 • It will help architecture companies with making blueprints.  </br>
 
 Funding opportunites: <br />

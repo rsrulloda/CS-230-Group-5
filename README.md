@@ -40,8 +40,8 @@ CEO : Anh <br />
 About: <br />
 COO : Ron <br />
 About: <br />
-CMO : Shara <br />
-About: <br />
+CMO : Yentishara Moh Hasim<br />
+About: Shara is the Chief Marketing Office. <br />
 CTO : David <br />
 About: <br />
 

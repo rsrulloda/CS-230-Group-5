@@ -23,8 +23,10 @@ Purpose, values, and mission: <br />
 
 C. External opportunitest that exist <br />
 Co-marketing: <br />
-• will work great with glasses type of technology, toy companies, and phone manufacturers.
-• it will help architecture companies with making blueprints.  
+• Will work great with glasses type of technology such as Apple Glasses, Google Glasses, etc.</br>
+• It can be used by toy companies to promote children's imagination. </br>
+• It can be used phone manufacturers to cater to the older generation through userfriendliness. </br>
+• It will help architecture companies with making blueprints.  </br>
 
 Funding opportunites: <br />
 https://www.sba.gov/about-sba-navigation-structure/technology-sbirsttr <br />

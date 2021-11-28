@@ -37,21 +37,30 @@ Apple Worldwide Developers Conference, Facebook F8, Google I/O
 
 D. Teams <br />
 CEO : Anh <br />
-About:
+About: <br />
 COO : Ron <br />
-About:
+About: <br />
 CMO : Shara <br />
-About:
+About: <br />
 CTO : David <br />
-About:
+About: <br />
 
 E. Strategy <br />
-Case Sudy of the closest potential competitor: <br />
-LG projectors are interactable. ie. https://www.lg.com/us/business/projectors-for-business?gclid=CjwKCAjwzaSLBhBJEiwAJSRokm0CN0oHBsS3LFT58bHKF_1KGX4vYGNLPhXTxpeHhMrolNEUsxbyxhoCdzMQAvD_BwE <br />
-Case Study : <br />
+•Closest potential competitor: <br />
+HYPERVSN is a company that develops interactive holographic displays that provides an immersive experience for viewers.
+Case Study: https://irp-cdn.multiscreensite.com/68fb84ce/files/uploaded/HYPERVSN%20Wall%20Overview.pdf
+https://41252621-3e17-4a77-b15e-d187575bd2d9.filesusr.com/ugd/7788b0_bf1fd156c58a4648bb9e2e7cb01aa216.pdf
+
+• What we learned from it?
+
+
+• Key Milestones:
+
+• How we will differentiate from other companies? </br>
+The main purpose of our company is to help 
 
 F. Slogan <br />
-Bringing holographic interaction to the world. <br />
+Bringing holographic interactions to the world. <br />
 <br />
 
 **Item 2 : Cultural Policy**<br />
@@ -82,7 +91,7 @@ Core Items:  <br />
 
 Board: <br />
 1. Jeff Bezos </br>
-Biography: Jeff Bez</br>
+Biography:</br>
 Jeffrey Preston Bezos is an American businessman, industrialist, media owner, and investor. Bezos is best known as the founder, CEO and chairman of the multinational technology company Amazon. 
 Why?</br>
 This person provides us the way to focus on customers, marketing, and selling. He will be a great part of the bussines area. 

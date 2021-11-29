@@ -1,4 +1,4 @@
-# CS-230-Group-5
+# CS-230-Group-5 (See Wiki)
 ## Project - Entreprenuerism &amp; Ethics
 **Item 1 : Business Plan**
 <br />

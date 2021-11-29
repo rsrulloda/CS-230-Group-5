@@ -39,10 +39,11 @@ Conferences to present the product : <br />
 Apple Worldwide Developers Conference, Facebook F8, Google I/O
 
 D. Teams <br />
-<a href="a"> <img src = "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png" width="150" height="150"> </a>
+<a href="a"> <img src = "https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/175992819_2760413480919311_8740547648078115885_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=3UXYqto_gdYAX_hm46r&_nc_ht=scontent-lga3-1.xx&oh=e36c58556ed56e80b722cbe152699c3a&oe=61C9319A" width="150" height="150"> </a>
 </br>
 CEO : Anh <br />
 About: <br />
+Anh is a CEO of the company. He is a person who was coming up with the hologram interaction technology. Have been working on computer vision in 5 years, and bussiness systems in 2 years. He had the experiences to handle the the company operation. He must garentee that the company run fruenly as much as possible, and keep track of the commercial details.
 </br>
 
 <a href="a"> <img src = "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s150x150/104650164_1130239514020501_196061441141028247_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=jwSZzUMamG8AX85cg7s&edm=ABfd0MgBAAAA&ccb=7-4&oh=5a78a422ae03f00e413314e4feb7d1cd&oe=61AB699D&_nc_sid=7bff83" width="200" height="200"> </a>

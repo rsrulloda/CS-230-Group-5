@@ -67,6 +67,7 @@ is resilient and dedicated who uses her failure as an opportunity to reflect and
 </br>
 CTO : David <br />
 About: <br />
+Responsibility for managing the physical and personnel technology infrastructure including technology deployment, network and system management, integration testing, and developing technical operations personnel.
 </br>
 
 E. Strategy <br />
